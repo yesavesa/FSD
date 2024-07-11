@@ -38,20 +38,13 @@ Now you can access the applications by visiting the appropriate URLs in your web
 
 Please note that some applications may require additional setup or configuration, such as creating a database and running migrations. Refer to the application-specific documentation for more details.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-### Contributors
 
 
 
-<a href="https://github.com/hanu7348" target="_blank">
-  <img src="https://avatars.githubusercontent.com/hanu7348" alt="Hanumanthu" width="50">
-</a>
 
 
 
-## License
 
-This project is licensed under the [Search Creators](https://searchcreators.org/).
+
+
+
